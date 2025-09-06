@@ -7,7 +7,7 @@ class Overloaddemo{
         System.out.println("t : "+t);
     }
 }
-public class demo{
+public class Overload1{
     public static void main(String[] args) {
         Overloaddemo obj1 = new Overloaddemo();
         obj1.test(12);
